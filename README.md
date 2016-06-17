@@ -1,6 +1,8 @@
 improcpy
 ===
 
+[![Join the chat at https://gitter.im/ranveeraggarwal/improcpy](https://badges.gitter.im/ranveeraggarwal/improcpy.svg)](https://gitter.im/ranveeraggarwal/improcpy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An image processing ensemble in Python
 
 ## Contributing
